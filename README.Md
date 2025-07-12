@@ -15,7 +15,7 @@ Technologies Used
 - CSS3 for layout and styling  
 - JavaScript for validation and dynamic preview  
 
-## 📂 Usage
+📂 Usage
 1. Clone the repo or copy the HTML code.
 2. Open `index.html` in any browser.
 3. Try filling and previewing the form.
